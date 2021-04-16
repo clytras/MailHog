@@ -55,6 +55,8 @@ github.com/mailhog/smtp
 # github.com/mailhog/storage v1.0.1
 ## explicit
 github.com/mailhog/storage
+# github.com/mitchellh/gox v1.0.1
+## explicit
 # github.com/ogier/pflag v0.0.1
 ## explicit
 github.com/ogier/pflag

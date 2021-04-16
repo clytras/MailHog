@@ -18,6 +18,7 @@ require (
 	github.com/mailhog/mhsendmail v0.2.0
 	github.com/mailhog/smtp v1.0.1 // indirect
 	github.com/mailhog/storage v1.0.1 // indirect
+	github.com/mitchellh/gox v1.0.1 // indirect
 	github.com/ogier/pflag v0.0.1 // indirect
 	github.com/t-k/fluent-logger-golang v1.0.0 // indirect
 	github.com/tinylib/msgp v1.1.5 // indirect

@@ -7,9 +7,9 @@ import (
 
 	"github.com/gorilla/pat"
 	"github.com/ian-kent/go-log/log"
-	"github.com/mailhog/MailHog-Server/config"
-	"github.com/mailhog/MailHog-Server/monkey"
-	"github.com/mailhog/MailHog-Server/websockets"
+	"github.com/clytras/MailHog-Server/config"
+	"github.com/clytras/MailHog-Server/monkey"
+	"github.com/clytras/MailHog-Server/websockets"
 	"github.com/mailhog/data"
 )
 

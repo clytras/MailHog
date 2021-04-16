@@ -8,10 +8,10 @@ import (
 	gohttp "net/http"
 
 	"github.com/clytras/MailHog-Server/api"
+	cfgapi "github.com/clytras/MailHog-Server/config"
 	"github.com/clytras/MailHog-Server/smtp"
 	"github.com/gorilla/pat"
 	"github.com/ian-kent/go-log/log"
-	cfgapi "github.com/mailhog/MailHog-Server/config"
 	"github.com/mailhog/MailHog-UI/assets"
 	cfgui "github.com/mailhog/MailHog-UI/config"
 	"github.com/mailhog/MailHog-UI/web"

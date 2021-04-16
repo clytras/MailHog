@@ -3,7 +3,7 @@ module github.com/mailhog/MailHog
 go 1.16
 
 require (
-	github.com/clytras/MailHog-Server v1.0.1
+	github.com/clytras/MailHog-Server v1.0.3
 	github.com/gorilla/context v1.1.1 // indirect
 	github.com/gorilla/mux v1.3.1-0.20170228224354-599cba5e7b61 // indirect
 	github.com/gorilla/pat v0.0.0-20160413041632-cf955c3d1f2c
@@ -13,7 +13,6 @@ require (
 	github.com/ian-kent/goose v0.0.0-20141221090059-c3541ea826ad // indirect
 	github.com/ian-kent/linkio v0.0.0-20141229112453-77fb4b01842c // indirect
 	github.com/jtolds/gls v4.2.1-0.20161228004933-bb0351aa7eb6+incompatible // indirect
-	github.com/mailhog/MailHog-Server v1.0.1
 	github.com/mailhog/MailHog-UI v1.0.0
 	github.com/mailhog/data v1.0.1 // indirect
 	github.com/mailhog/http v1.0.1

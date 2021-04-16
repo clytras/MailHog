@@ -45,7 +45,7 @@ This is to get the updated release out with the latest code, since 0.2.1 is gett
 ### [v0.1.9](https://github.com/mailhog/MailHog/releases/v0.1.9)
 - #76 - optimise docker image size, thanks @missedone
 - #77 - fix ci by removing go-uuid, thanks @missedone
-- #80, mailhog/MailHog-UI#15, mailhog/MailHog-Server#2 - add webpath, thanks @oers
+- #80, mailhog/MailHog-UI#15, clytras/MailHog-Server#2 - add webpath, thanks @oers
 - mailhog/MailHog-UI#13 - create hyperlinks for URLs in plain text, thanks @GREsau
 - mailhog/MailHog-UI#14 - add no-referrer referrer policy, thanks @djmattyg007
 
@@ -66,7 +66,7 @@ This is to get the updated release out with the latest code, since 0.2.1 is gett
 - Fix mailhog/MailHog-UI#6 - user defined pagination
 - Merge #43 and #44 - fix documentation, thanks @eirc
 - Merge #48 - fix documentation, thanks @zhubert
-- Merge mailhog/MailHog-Server#1 - avoid duplicate headers, thanks @wienczny
+- Merge clytras/MailHog-Server#1 - avoid duplicate headers, thanks @wienczny
 
 ### [v0.1.6](https://github.com/mailhog/MailHog/releases/v0.1.6)
 - Fix #24 - base64 attachments/mime part downloads

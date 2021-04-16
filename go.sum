@@ -1,5 +1,5 @@
-github.com/clytras/MailHog-Server v1.0.1 h1:mtG6DFHq4zeP3bOIcKHmknW3f7Q0glx8srcnvt4LlZQ=
-github.com/clytras/MailHog-Server v1.0.1/go.mod h1:tl21upCC3G4rWlP1xWZx95Sun58UYVn49EnkMgkM4CM=
+github.com/clytras/MailHog-Server v1.0.3 h1:pjypYpSq+IcT4ppImOh9kt+6IsCccQdevWi5Hlbspw8=
+github.com/clytras/MailHog-Server v1.0.3/go.mod h1:tl21upCC3G4rWlP1xWZx95Sun58UYVn49EnkMgkM4CM=
 github.com/gorilla/context v1.1.1 h1:AWwleXJkX/nhcU9bZSnZoi3h/qGYqQAGhq6zZe/aQW8=
 github.com/gorilla/context v1.1.1/go.mod h1:kBGZzfjB9CEq2AlWe17Uuf7NDRt0dE0s8S51q0aT7Yg=
 github.com/gorilla/mux v1.3.1-0.20170228224354-599cba5e7b61 h1:fgQcA2gW8X1dLTYeaO8N6d1UMxsHczPYRjITrFNjxhk=
@@ -19,8 +19,6 @@ github.com/ian-kent/goose v0.0.0-20141221090059-c3541ea826ad/go.mod h1:VHyJj0/IJ
 github.com/ian-kent/linkio v0.0.0-20141229112453-77fb4b01842c h1:Qtoos32rZcX4KzhBo+6qiAHjDchTXFIgmwYmGEzBn90=
 github.com/ian-kent/linkio v0.0.0-20141229112453-77fb4b01842c/go.mod h1:aE63iKqF9rMrshaEiYZroUYFZLaYoTuA7pBMsg3lJoY=
 github.com/jtolds/gls v4.2.1-0.20161228004933-bb0351aa7eb6+incompatible/go.mod h1:QJZ7F/aHp+rZTRtaJ1ow/lLfFfVYBRgL+9YlvaHOwJU=
-github.com/mailhog/MailHog-Server v1.0.1 h1:mK9inUHV2p6pO55cHZTCdZ8D4aXzd+M9wvqtU0XmWcM=
-github.com/mailhog/MailHog-Server v1.0.1/go.mod h1:ScCrImbapPxdrQ85qoxkMygsSiY74ohIj1knLzuN8J0=
 github.com/mailhog/MailHog-UI v1.0.0 h1:XwT1IlSWgLrIrjAL/8bmXLbnGIR6UalCuYSNNer9EIw=
 github.com/mailhog/MailHog-UI v1.0.0/go.mod h1:zLEw2DaBMXpL6nmpdB8S5U1Y3MMSATlTcjUYSTAB7HQ=
 github.com/mailhog/data v1.0.1 h1:7I+opBvVdi4EMJaihXavM98jp/ovt4o6mz47446RAW8=

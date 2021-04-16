@@ -7,7 +7,7 @@ import (
 	"log"
 
 	"github.com/ian-kent/envconf"
-	"github.com/mailhog/MailHog-Server/monkey"
+	"github.com/clytras/MailHog-Server/monkey"
 	"github.com/mailhog/data"
 	"github.com/mailhog/storage"
 )

@@ -77,3 +77,4 @@ gopkg.in/mgo.v2/bson
 gopkg.in/mgo.v2/internal/json
 gopkg.in/mgo.v2/internal/sasl
 gopkg.in/mgo.v2/internal/scram
+# github.com/mailhog/MailHog => github.com/clytras/MailHog v1.0.3

@@ -8,13 +8,13 @@ github.com/clytras/MailHog-Server/websockets
 # github.com/gorilla/context v1.1.1
 ## explicit
 github.com/gorilla/context
-# github.com/gorilla/mux v1.3.1-0.20170228224354-599cba5e7b61
+# github.com/gorilla/mux v1.8.0
 ## explicit
 github.com/gorilla/mux
-# github.com/gorilla/pat v0.0.0-20160413041632-cf955c3d1f2c
+# github.com/gorilla/pat v1.0.1
 ## explicit
 github.com/gorilla/pat
-# github.com/gorilla/websocket v1.1.1-0.20170319172727-a91eba7f9777
+# github.com/gorilla/websocket v1.4.2
 ## explicit
 github.com/gorilla/websocket
 # github.com/ian-kent/envconf v0.0.0-20141026121121-c19809918c02
@@ -30,12 +30,10 @@ github.com/ian-kent/go-log/logger
 # github.com/ian-kent/goose v0.0.0-20141221090059-c3541ea826ad
 ## explicit
 github.com/ian-kent/goose
-# github.com/ian-kent/linkio v0.0.0-20141229112453-77fb4b01842c
+# github.com/ian-kent/linkio v0.0.0-20170807205755-97566b872887
 ## explicit
 github.com/ian-kent/linkio
-# github.com/jtolds/gls v4.2.1-0.20161228004933-bb0351aa7eb6+incompatible
-## explicit
-# github.com/mailhog/MailHog-UI v1.0.0
+# github.com/mailhog/MailHog-UI v1.0.1
 ## explicit
 github.com/mailhog/MailHog-UI/assets
 github.com/mailhog/MailHog-UI/config
@@ -46,7 +44,7 @@ github.com/mailhog/data
 # github.com/mailhog/http v1.0.1
 ## explicit
 github.com/mailhog/http
-# github.com/mailhog/mhsendmail v0.2.1-0.20160920204233-c097b3bc3fe7
+# github.com/mailhog/mhsendmail v0.2.0
 ## explicit
 github.com/mailhog/mhsendmail/cmd
 # github.com/mailhog/smtp v1.0.1
@@ -55,31 +53,25 @@ github.com/mailhog/smtp
 # github.com/mailhog/storage v1.0.1
 ## explicit
 github.com/mailhog/storage
-# github.com/mitchellh/gox v1.0.1
+# github.com/ogier/pflag v0.0.1
 ## explicit
-# github.com/philhofer/fwd v0.0.0-20160129035939-98c11a7a6ec8
-## explicit
+github.com/ogier/pflag
+# github.com/philhofer/fwd v1.1.1
 github.com/philhofer/fwd
-# github.com/smartystreets/assertions v0.0.0-20161213224810-26acb9229f42
-## explicit
-# github.com/smartystreets/goconvey v1.6.3-0.20170110120022-3bd662eac601
-## explicit
-# github.com/spf13/pflag v1.0.5
-## explicit
-github.com/spf13/pflag
 # github.com/t-k/fluent-logger-golang v1.0.0
 ## explicit
 github.com/t-k/fluent-logger-golang/fluent
-# github.com/tinylib/msgp v0.0.0-20160524150606-05e600edf28f
+# github.com/tinylib/msgp v1.1.5
 ## explicit
 github.com/tinylib/msgp/msgp
-# golang.org/x/crypto v0.0.0-20161221235747-f6b343c37ca8
+# golang.org/x/crypto v0.0.0-20210415154028-4f45737414dc
 ## explicit
 golang.org/x/crypto/bcrypt
 golang.org/x/crypto/blowfish
-# gopkg.in/mgo.v2 v2.0.0-20160609180028-29cc868a5ca6
+# gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 ## explicit
 gopkg.in/mgo.v2
 gopkg.in/mgo.v2/bson
+gopkg.in/mgo.v2/internal/json
 gopkg.in/mgo.v2/internal/sasl
 gopkg.in/mgo.v2/internal/scram

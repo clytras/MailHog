@@ -15,7 +15,7 @@ import (
 	"github.com/mailhog/MailHog-UI/assets"
 	cfgui "github.com/mailhog/MailHog-UI/config"
 	"github.com/mailhog/MailHog-UI/web"
-	cfgcom "github.com/mailhog/MailHog/config"
+	cfgcom "github.com/clytras/MailHog/config"
 	"github.com/mailhog/http"
 	"github.com/mailhog/mhsendmail/cmd"
 	"golang.org/x/crypto/bcrypt"

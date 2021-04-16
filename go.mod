@@ -1,4 +1,4 @@
-module github.com/mailhog/MailHog
+module github.com/clytras/MailHog
 
 go 1.16
 

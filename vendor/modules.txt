@@ -1,10 +1,17 @@
-# github.com/clytras/MailHog-Server v1.0.3
+# github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869
+## explicit
+# github.com/clytras/MailHog-Server v1.0.4
 ## explicit
 github.com/clytras/MailHog-Server/api
 github.com/clytras/MailHog-Server/config
 github.com/clytras/MailHog-Server/monkey
 github.com/clytras/MailHog-Server/smtp
 github.com/clytras/MailHog-Server/websockets
+# github.com/clytras/MailHog-UI v1.0.2
+## explicit
+github.com/clytras/MailHog-UI/assets
+github.com/clytras/MailHog-UI/config
+github.com/clytras/MailHog-UI/web
 # github.com/gorilla/context v1.1.1
 ## explicit
 github.com/gorilla/context
@@ -33,11 +40,6 @@ github.com/ian-kent/goose
 # github.com/ian-kent/linkio v0.0.0-20170807205755-97566b872887
 ## explicit
 github.com/ian-kent/linkio
-# github.com/mailhog/MailHog-UI v1.0.1
-## explicit
-github.com/mailhog/MailHog-UI/assets
-github.com/mailhog/MailHog-UI/config
-github.com/mailhog/MailHog-UI/web
 # github.com/mailhog/data v1.0.1
 ## explicit
 github.com/mailhog/data
@@ -53,13 +55,15 @@ github.com/mailhog/smtp
 # github.com/mailhog/storage v1.0.1
 ## explicit
 github.com/mailhog/storage
-# github.com/mitchellh/gox v1.0.1
-## explicit
 # github.com/ogier/pflag v0.0.1
 ## explicit
 github.com/ogier/pflag
 # github.com/philhofer/fwd v1.1.1
 github.com/philhofer/fwd
+# github.com/smartystreets/goconvey v1.6.4
+## explicit
+# github.com/stretchr/testify v1.7.0
+## explicit
 # github.com/t-k/fluent-logger-golang v1.0.0
 ## explicit
 github.com/t-k/fluent-logger-golang/fluent
@@ -70,6 +74,8 @@ github.com/tinylib/msgp/msgp
 ## explicit
 golang.org/x/crypto/bcrypt
 golang.org/x/crypto/blowfish
+# gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
+## explicit
 # gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 ## explicit
 gopkg.in/mgo.v2
@@ -77,4 +83,5 @@ gopkg.in/mgo.v2/bson
 gopkg.in/mgo.v2/internal/json
 gopkg.in/mgo.v2/internal/sasl
 gopkg.in/mgo.v2/internal/scram
-# github.com/mailhog/MailHog => github.com/clytras/MailHog v1.0.3
+# gopkg.in/yaml.v2 v2.4.0
+## explicit
